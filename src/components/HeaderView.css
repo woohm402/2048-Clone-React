@@ -1,0 +1,94 @@
+.headerLine {
+    display: flex;
+    justify-content: space-between;
+}
+
+.setting_icon {
+    height: 20px;
+    width: 20px;
+    margin-top: 40px;
+}
+
+#hl_bottom {
+    margin-bottom: 40px;
+}
+
+.scores {
+    display: flex;
+}
+
+.scoreBox {
+    text-align: center;
+    margin: auto;
+    margin-right: 0px;
+    margin-left: 6px;
+    height: 58px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+.scoreBox#theme1 {
+    background-color: #4488CC;
+}
+
+.scoreBox#theme2 {
+    background-color: #CC4488;
+}
+
+.scoreBox#theme3 {
+    background-color: #88CC44;
+}
+
+.title {
+    font-size: 5em;
+    margin: 0 0;
+}
+
+.title#theme1 {
+    color: #004488;
+}
+
+.title#theme2 {
+    color: #880044;
+}
+
+.title#theme3 {
+    color: #448800;
+}
+
+.sb_text {
+    font-size: 0.7em;
+    margin-top: 8px;
+    margin-bottom: 4px;
+}
+
+.sb_score {
+    font-size: 1.4em;
+    margin: 0 25px;
+}
+
+.desc {
+    font-size: 1.2em;
+}
+
+.ngButton {
+    color: white;
+    font-size: 1.2em;
+    height: 40px;
+    margin: auto;
+    margin-right: 0;
+    border: 0 black;
+    border-radius: 5px;
+}
+
+.ngButton#theme1 {
+    background-color: #0066BB;
+}
+
+.ngButton#theme2 {
+    background-color: #BB0066;
+}
+
+.ngButton#theme3 {
+    background-color: #66BB00;
+}

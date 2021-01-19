@@ -1,0 +1,191 @@
+.gameLine {
+    display: flex;
+}
+
+.gameView {
+    border-radius: 5px;
+}
+
+.gameView#theme1 {
+    border: 5px solid #002244;
+}
+
+.gameView#theme2 {
+    border: 5px solid #440022;
+}
+
+.gameView#theme3 {
+    border: 5px solid #224400;
+}
+
+.gameBlock {
+    width: 125px;
+    height: 125px;
+    text-align: center;
+    line-height: 125px;
+    font-weight: bold;
+}
+
+.gb0, .gb2, .gb4, .gb8, .gb16, .gb32, .gb64, .gb128 {
+    font-size: 4em;
+}
+
+.gb256, .gb512 {
+    font-size: 3.5em;
+}
+
+.gb1024, .gb2048 {
+    font-size: 2.7em;
+}
+
+.gb2048 {
+    color: white;
+}
+/* -------------------------------theme1-------------------------------*/
+#gb0theme1 {
+    background-color: #B0B8BF;
+}
+
+#gb2theme1 {
+    background-color: #D0E0F0;
+}
+
+#gb4theme1 {
+    background-color: #B0D0F0;
+}
+
+#gb8theme1 {
+    background-color: #A0D0F0;
+}
+
+#gb16theme1 {
+    background-color: #90D0F0;
+}
+
+#gb32theme1 {
+    background-color: #90C0F0;
+}
+
+#gb64theme1 {
+    background-color: #80C0F0;
+}
+
+#gb128theme1 {
+    background-color: #80B0F0;
+}
+
+#gb256theme1 {
+    background-color: #70B0F0;
+}
+
+#gb512theme1 {
+    background-color: #70A0F0;
+}
+
+#gb1024theme1 {
+    background-color: #60A0F0;
+}
+
+#gb2048theme1 {
+    background-color: #6090F0;
+}
+
+/* -------------------------------theme2-------------------------------*/
+
+#gb0theme2 {
+    background-color: #BFB0B8;
+}
+
+#gb2theme2 {
+    background-color: #F0D0E0;
+}
+
+#gb4theme2 {
+    background-color: #F0B0D0;
+}
+
+#gb8theme2 {
+    background-color: #F0A0D0;
+}
+
+#gb16theme2 {
+    background-color: #F090D0;
+}
+
+#gb32theme2 {
+    background-color: #F090C0;
+}
+
+#gb64theme2 {
+    background-color: #F080C0;
+}
+
+#gb128theme2 {
+    background-color: #F080B0;
+}
+
+#gb256theme2 {
+    background-color: #F070B0;
+}
+
+#gb512theme2 {
+    background-color: #F070A0;
+}
+
+#gb1024theme2 {
+    background-color: #F060A0;
+}
+
+#gb2048theme2 {
+    background-color: #F06090;
+}
+
+/* -------------------------------theme3-------------------------------*/
+
+#gb0theme3 {
+    background-color: #B8BFB0;
+}
+
+#gb2theme3 {
+    background-color: #E0F0D0;
+}
+
+#gb4theme3 {
+    background-color: #D0F0B0;
+}
+
+#gb8theme3 {
+    background-color: #D0F0A0;
+}
+
+#gb16theme3 {
+    background-color: #D0F090;
+}
+
+#gb32theme3 {
+    background-color: #C0F090;
+}
+
+#gb64theme3 {
+    background-color: #C0F080;
+}
+
+#gb128theme3 {
+    background-color: #B0F080;
+}
+
+#gb256theme3 {
+    background-color: #B0F070;
+}
+
+#gb512theme3 {
+    background-color: #A0F070;
+}
+
+#gb1024theme3 {
+    background-color: #A0F060;
+}
+
+#gb2048theme3 {
+    background-color: #90F060;
+}

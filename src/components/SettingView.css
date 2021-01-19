@@ -1,0 +1,21 @@
+.goBack {
+    height: 17px;
+    width: 20px;
+}
+
+.themeButton {
+    height: 50px;
+    width: 100%;
+}
+
+#theme1 {
+    background-color: #F0F8FF;
+}
+
+#theme2 {
+    background-color: #FFF0F8;
+}
+
+#theme3 {
+    background-color: #F8FFF0;
+}
